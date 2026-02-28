@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "name": "player controler",
+    "name": "player Controls",
     "maps": [
         {
             "name": "Movement",
