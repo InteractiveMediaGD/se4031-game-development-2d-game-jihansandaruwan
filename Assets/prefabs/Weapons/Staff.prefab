@@ -46,6 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dfc16fccfb5a824bae27c2c164feb87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  weaponInfo: {fileID: 11400000, guid: 4430bac5ea4d40a41a61898c72011f05, type: 2}
 --- !u!212 &7388185794170999450
 SpriteRenderer:
   m_ObjectHideFlags: 0
