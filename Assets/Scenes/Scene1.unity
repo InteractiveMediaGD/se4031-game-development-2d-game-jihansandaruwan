@@ -5830,6 +5830,7 @@ GameObject:
   m_Component:
   - component: {fileID: 251963952}
   - component: {fileID: 251963953}
+  - component: {fileID: 251963954}
   m_Layer: 0
   m_Name: Active weapon
   m_TagString: Untagged
@@ -5863,6 +5864,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0fd9e78b39b46504f9536f01dd3a7537, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &251963954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 251963951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42128b91e6fe46a4eb3031990f0a18e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &256080358
@@ -12321,7 +12334,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.22223985, y: 0, z: -10}
+  m_LocalPosition: {x: 0.2237727, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
