@@ -13185,6 +13185,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 326668732735463825, guid: dfe19fc9e1f735f40a201263b517d015, type: 3}
+      propertyPath: fullStaminaImage
+      value: 
+      objectReference: {fileID: 21300000, guid: 34fd03781c2edeb47bf90adefc478533, type: 3}
+    - target: {fileID: 326668732735463825, guid: dfe19fc9e1f735f40a201263b517d015, type: 3}
+      propertyPath: emptyStaminaImage
+      value: 
+      objectReference: {fileID: 21300000, guid: 4c7e03d80dc805c4fbfc4827e4ac3777, type: 3}
     - target: {fileID: 4750222560498959424, guid: dfe19fc9e1f735f40a201263b517d015, type: 3}
       propertyPath: m_Name
       value: Player
